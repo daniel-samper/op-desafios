@@ -1,1 +1,1 @@
-*.class
+Nothing should be ignored since the changes only include source code files (.java) and data files (.json).
