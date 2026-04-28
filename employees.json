@@ -1,0 +1,95 @@
+{
+    "employees": [
+        {
+            "id": 0,
+            "name": "Marcelo",
+            "surname": "Silva",
+            "wage": 3200.00,
+            "area": "SM"
+        },
+        {
+            "id": 1,
+            "name": "Washington",
+            "surname": "Ramos",
+            "wage": 2700.00,
+            "area": "UD"
+        },
+        {
+            "id": 2,
+            "name": "Sergio",
+            "surname": "Pinheiro",
+            "wage": 2450.00,
+            "area": "SD"
+        },
+        {
+            "id": 3,
+            "name": "Bernardo",
+            "surname": "Costa",
+            "wage": 3700.00,
+            "area": "SM"
+        },
+        {
+            "id": 4,
+            "name": "Cleverton",
+            "surname": "Farias",
+            "wage": 2750.00,
+            "area": "SD"
+        },
+        {
+            "id": 5,
+            "name": "Abraão",
+            "surname": "Campos",
+            "wage": 2550.00,
+            "area": "SD"
+        },
+        {
+            "id": 6,
+            "name": "Letícia",
+            "surname": "Farias",
+            "wage": 2450.00,
+            "area": "UD"
+        },
+        {
+            "id": 7,
+            "name": "Fernando",
+            "surname": "Ramos",
+            "wage": 2450.00,
+            "area": "SD"
+        },
+        {
+            "id": 8,
+            "name": "Marcelo",
+            "surname": "Farias",
+            "wage": 2550.00,
+            "area": "UD"
+        },
+        {
+            "id": 9,
+            "name": "Fabio",
+            "surname": "Souza",
+            "wage": 2750.00,
+            "area": "SD"
+        },
+        {
+            "id": 10,
+            "name": "Clederson",
+            "surname": "Oliveira",
+            "wage": 2500.00,
+            "area": "SD"
+        }
+    ],
+    "areas": [
+        {
+            "code": "SD",
+            "name": "Desenvolvimento de Software"
+        },
+        {
+            "code": "SM",
+            "name": "Gerenciamento de Software"
+        },
+        {
+            "code": "UD",
+            "name": "Designer de UI/UX"
+        }
+    ]
+}
